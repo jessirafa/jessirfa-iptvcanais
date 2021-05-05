@@ -1,0 +1,17 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="canais iptv "
+
+#EXTINF:-1 tvg-id="fox premium " tvg-name="Fox premium" tvg-logo="https://1.bp.blogspot.com/-gSfn95clJ1I/WV0PlHmcOtI/AAAAAAAA8Mk/karHaNuoOdY2w0mBlGzhAPFyQbdqror1wCPcBGAYYCw/s1600/fox-premium.png" group-title="canais fechados",Fox prmium
+https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/c.m3u8?exp=1620255307&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=d8181319da544eac397eb8286c4e488bc7326551d2123e3a69913ac3222d587a&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=d37b06da9c6ce6080e8be2c7e57f4416c78cde349f0571fd0019ce976ed88d24&pbs=51ae962713b04e168bfd1a9657279603
+
+#EXTINF:-1 tvg-id="universal " tvg-name="universal" tvg-logo="https://img2.gratispng.com/20180426/oxq/kisspng-universal-pictures-universal-s-islands-of-adventur-5ae180a34caf06.1718797915247279713141.jpg" group-title="canais fechados",universal
+https://cdn.esporteone.com/UNIVERSALSD/video.m3u8?md5=mrBSng1ZKgWnyl1pHTY2OQ&expires=1620264748
+
+#EXTINF:-1 tvg-id="universal2" tvg-name="universal2" tvg-logo="https://img2.gratispng.com/20180426/oxq/kisspng-universal-pictures-universal-s-islands-of-adventur-5ae180a34caf06.1718797915247279713141.jpg" group-title="canais fechados",universal2
+https://cdn.esporteone.com/UNIVERSALHD/video.m3u8?md5=NJChyxN9-MJ7SI_Gq3Fh9Q&expires=1620265000
+
+#EXTINF:-1 tvg-id="telecine fun" tvg-name="telecine fun" tvg-logo="https://i.pinimg.com/originals/fa/90/df/fa90dffbbadbff35cc27f755f5efa476.png" group-title="canais fechados ",telecine fun
+https://cdn.esporteone.com/TELECINEFUNHD/video.m3u8?md5=LLcVpytJAuKwJcJqpfbtFg&expires=1620265217
+
